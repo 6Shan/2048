@@ -17,6 +17,7 @@ public class Panel {
 	public JFrame jFrame;
 	public JPanel jPanel;
 	public JButton[][] jButtons;
+	public int i;
 
 	public static void main(String[] args) {
 		Panel panel = new Panel();
